@@ -5,7 +5,14 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" />
+<hr>
+## 🚀 About Me
 
+🔭 I'm currently working on **Akademix**  
+🌱 Learning **MERN & DSA**  
+💬 Ask me about **Backend, Coding, Critical thinking**  
+📫 Reach me at: **raj85singh95@gmail.com**  
+<hr>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 𝗧𝗘𝗖𝗛 𝗔𝗥𝗦𝗘𝗡𝗔𝗟
 
 <div align="center">
@@ -55,8 +62,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raj-singh-code&show_icons=true&theme=radical&border_radius=10&rank_icon=github" height="170px" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raj-singh-code&theme=radical&border_radius=10" height="170px" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajsingh73&show_icons=true&theme=radical&border_radius=10&rank_icon=github" height="170px" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -93,11 +99,11 @@
 ## 📂 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 <div align="center">
-  <a href="https://github.com/raj-singh-code/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raj-singh-code&repo=project-1&bg_color=0D1117&title_color=00D9F7&icon_color=00D9F7&text_color=FFFFFF&hide_border=true"/>
+  <a href="https://github.com/rajsingh73/javascript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajsingh73&repo=javascript&bg_color=0D1117&title_color=00D9F7&icon_color=00D9F7&text_color=FFFFFF&hide_border=true"/>
   </a>
-  <a href="https://github.com/raj-singh-code/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raj-singh-code&repo=project-2&bg_color=0D1117&title_color=00D9F7&icon_color=00D9F7&text_color=FFFFFF&hide_border=true"/>
+  <a href="https://github.com/rajsingh73/ums">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajsingh73&repo=ums&bg_color=0D1117&title_color=00D9F7&icon_color=00D9F7&text_color=FFFFFF&hide_border=true"/>
   </a>
 </div>
 
@@ -114,14 +120,11 @@
 ## ⚡ 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘
 
 <div align="center">
-  <a href="https://github.com/raj-singh-code" target="_blank">
+  <a href="https://github.com/rajsingh73" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://linkedin.com/in/raj-singh-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/raj-singh-a1a819283/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/raj_singh_dev" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
   </a>
   <a href="https://leetcode.com/raj_73singh_55/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
@@ -132,29 +135,10 @@
   <a href="https://raj-singh.dev" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-%231DA1F2.svg?&style=for-the-badge&logo=vercel&logoColor=white&color=071A2C" alt="Portfolio" style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:raj.singh.dev@gmail.com">
+  <a href="mailto:raj85singh95@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-<details>
-  <summary>⚠️ 𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟 𝗔𝗖𝗖𝗘𝗦𝗦</summary>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
-    <pre>
-        $ cat .hidden_message.txt
-        
-        01010100 01101000 01100001 01101110 01101011 
-        01110011 00100000 01100110 01101111 01110010 
-        01110110 01101001 01110011 01101001 01110100 
-        01101001 01101110 01100111 00100000 01101101 
-        01111001 00100000 01110000 01110010 01101111 
-        01100110 01101001 01101100 01100101 00100001
-        
-        // Decoded: "Thanks for visiting my profile!"
-    </pre>
-  </div>
-</details>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
