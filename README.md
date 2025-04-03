@@ -51,7 +51,7 @@
 ## 📊 𝟮𝟬𝟮𝟱 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj-singh-code&theme=github_dark" width="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajsingh73&theme=github_dark" width="100%"/>
 </div>
 
 <div align="center">
