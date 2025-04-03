@@ -60,7 +60,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-singh-code&layout=compact&theme=github_dark&hide_border=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsingh73&layout=compact&theme=github_dark&hide_border=true" width="450"/>
 </div>
 
 ## 📝 𝗟𝗘𝗘𝗧𝗖𝗢𝗗𝗘 𝗦𝗧𝗔𝗧𝗦
