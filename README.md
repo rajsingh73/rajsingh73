@@ -6,54 +6,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" />
 
-## 👾 SECURITY CLEARANCE: LEVEL 5
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif" />
-        <p align="left">
-          <pre>
-$ whoami
-> Raj Singh
-
-$ cat /etc/profile
-> Full Stack Developer & Security Specialist
-
-$ ls -la ~/skills
-> drwxr-xr-x PHP
-> drwxr-xr-x HTML/CSS/JS
-> drwxr-xr-x Tailwind CSS
-> drwxr-xr-x Node.js
-> drwxr-xr-x React
-> drwxr-xr-x Python
-> drwxr-xr-x C++
-> drwxr-xr-x Java
-> drwxr-xr-x Rust
-> drwxr-xr-x MongoDB
-> drwxr-xr-x SQL
-> drwxr-xr-x Go
-
-$ uptime
-> System online since 2022
-> Current status: Developing the impossible
-
-$ ssh -p 443 access@rajsingh.dev
-> Connection established...
-          </pre>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-</picture>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 𝗧𝗘𝗖𝗛 𝗔𝗥𝗦𝗘𝗡𝗔𝗟
 
 <div align="center">
@@ -203,7 +155,11 @@ $ ssh -p 443 access@rajsingh.dev
     </pre>
   </div>
 </details>
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+</picture>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&descAlignY=51&descAlign=62" width="100%" alt="Footer" />
 </p>
